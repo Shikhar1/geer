@@ -1055,8 +1055,8 @@ color:#fff;
 .section-heading2{text-shadow: 0 0 4px #da2a82, 0 0 4px #da2a82, 0 0 4px #da2a82, 0 0 4px #da2a82, 0 0 4px #da2a82;color:#fff !important;font-weight:800;}
 .section-heading3{text-shadow: 0 0 4px #f5911c, 0 0 4px #f5911c, 0 0 4px #f5911c, 0 0 4px #f5911c, 0 0 4px #f5911c;color: #fff;!important;font-weight:800;}
 
-.btn2{background:transparent;border:1px solid #da2a82!important; }
-.btn3{{background:transparent;border:1px solid #f5911c!important;}
+.btn2{background:transparent;border:1px solid #da2a82!important;}
+.btn3{background:transparent;border:1px solid #f5911c!important;}
 
   
 .btn:hover{color:#fff !important;font-weight:600;background:#9f29bd !important;}
