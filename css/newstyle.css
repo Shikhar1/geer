@@ -1050,3 +1050,7 @@ color:#fff;
   overflow-x:hidden;
 
 }
+
+.section-heading{text-shadow: 0 0 4px #9f29bd, 0 0 4px #9f29bd, 0 0 4px #9f29bd, 0 0 4px #9f29bd, 0 0 4px #9f29bd;color:#fff;font-weight:800;}
+.section-heading2{text-shadow: 0 0 4px #da2a82, 0 0 4px #da2a82, 0 0 4px #da2a82, 0 0 4px #da2a82, 0 0 4px #da2a82;color:#fff !important;font-weight:800;}
+.section-heading3{text-shadow: 0 0 4px #f5911c, 0 0 4px #f5911c, 0 0 4px #f5911c, 0 0 4px #f5911c, 0 0 4px #f5911c;color: #fff;!important;font-weight:800;}
