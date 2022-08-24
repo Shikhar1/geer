@@ -905,7 +905,14 @@ video{height:400px;}
 .geer-section-heading{
 
   color:#e73286;
-  animation:none !important;
+  animation:geersection 2s linear infinite;
+  padding-top: 62px;
+
+}
+
+.geer-section-heading2{
+
+  color:#e73286;
   padding-top: 62px;
 
 }
