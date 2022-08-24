@@ -910,13 +910,6 @@ video{height:400px;}
 
 }
 
-.geer-section-heading2{
-
-  color:#e73286;
-  padding-top: 62px;
-
-}
-
 @keyframes geersection{
 
     0%,18%,20%,60%,80%
@@ -930,6 +923,13 @@ video{height:400px;}
       text-shadow: 0 0 10px #e73286,
       0 0 20px #e73286;
   }
+}
+
+.geer-section-heading2{
+
+  color:#e73286 !important;
+  padding-top: 62px;
+
 }
 
 .geer-section{
