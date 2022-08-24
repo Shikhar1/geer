@@ -837,12 +837,12 @@ video{height:400px;}
   padding-bottom: 20px;
   letter-spacing: 5px;
   padding-top:10px;
-  color:red;
+  color:#fff;
   text-transform: uppercase;
   width:100%;
   line-height: 1.2em;
   outline: none;
-  animation: geer 5s linear infinite;
+  animation: none;
 
 }
 
