@@ -694,6 +694,7 @@ margin-right: 2px;
     width:100%;
     line-height: .70em;
     outline: none;
+    font-weight:bolder;
     animation: textanimate2 5s linear infinite;
 
 }
