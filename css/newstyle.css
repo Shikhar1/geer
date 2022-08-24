@@ -873,11 +873,11 @@ video{height:400px;}
   width:100%;
   line-height: .70em;
   outline: none;
-  animation: textanimate2 5s linear infinite;
+  animation:none !important;
 
 }
 
-@keyframes textanimate2{
+/* @keyframes textanimate2{
 
   0%,18%,20%,60%,80%,90%,92%
   {
@@ -895,7 +895,7 @@ video{height:400px;}
       0 0 90px floralwhite,
       0 0 180px floralwhite;
   }
-}
+} */
 
 
 .geer-banner ul li{color:#fff;font-size: 16px;line-height: 1.5;}
@@ -904,7 +904,7 @@ video{height:400px;}
 .geer-section-heading{
 
   color:#e73286;
-  animation: geersection 2s linear infinite;
+  animation:none !important;
   padding-top: 62px;
 
 }
