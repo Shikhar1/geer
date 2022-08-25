@@ -794,7 +794,7 @@ video{height:400px;}
   background-size: cover;
   background-position: -19px 282px;
 }
-.bannerlogo{padding-top: 20px;}
+.bannerlogo{padding-top: 20px;width:100px !important;}
 .banner-news {
   padding: 0 60px;
 }
@@ -1069,4 +1069,3 @@ color:#fff;
 .btn:hover{color:#fff !important;font-weight:600;background:#9f29bd !important;}
 .btn2:hover{color:#fff !important;font-weight:600;background:#da2a82!important;}
 .btn3:hover{color:#fff !important;font-weight:600;background:#f5911c!important;}
-.bannerlogo{width:100px !important;}
